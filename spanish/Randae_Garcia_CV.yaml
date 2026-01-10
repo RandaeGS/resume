@@ -1,0 +1,266 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.6/schema.json
+cv:
+  name: Randae Garcia Sanchez
+  headline:
+  location: Santiago, Republica Dominicana
+  email: garciasanchezrd@gmail.com
+  photo:
+  phone:
+  website: 
+  social_networks:
+    - network: LinkedIn
+      username: randae-garcia-sanchez
+    - network: GitHub
+      username: RandaeGS
+  custom_connections:
+  sections:
+    About me:
+      - Ingeniero en Ciencias de la Computación con un año de experiencia práctica en desarrollo Java. Competente en la creación de aplicaciones web utilizando frameworks de Java, incluyendo Spring y Quarkus, así como JavaScript con Vue.js, siguiendo metodologías ágiles. Experiencia con sistemas de control de versiones Git y cómodo trabajando en entornos de terminal y Linux. Ciudadano estadounidense.
+    education:
+      - institution: Pontificia Universidad Católica Madre y Maestra (PUCMM)
+        area: Ingeniería en Ciencias de la Computación
+        degree: Grado
+        date:
+        start_date: 2021-01
+        end_date: 2025-09
+        location: Santiago, República Dominicana
+        summary:
+        highlights:
+          - 'Tesis: Smart Stock Analyzer: Optimización de la gestión de inventario en centros de acopio en la República Dominicana mediante visión artificial'
+    experience:
+      - company: Decasystems
+        position: Desarrollador Web
+        date:
+        start_date: 2025-04
+        end_date: 2025-11
+        location: Santiago, República Dominicana 
+        summary:
+        highlights:
+          - Integración de escáneres de almacén portátiles con la aplicación web ERP, automatizando la entrada de datos para el etiquetado y seguimiento de inventario
+          - Diseño y despliegue de módulos personalizados escalables para facilitar la incorporación de nuevos clientes corporativos al ecosistema heredado (legacy)
+          - Propuesta de iniciativas para mejorar la calidad del código existente mediante la coordinación de reuniones técnicas con el equipo de desarrollo para establecer y promover mejores prácticas de programación
+          - Desarrollo de utilidades internas críticas para resolver problemas de alta prioridad en el procesamiento de facturación electrónica (e-CF)
+          - Auditoría de las APIs REST existentes para identificar y corregir vulnerabilidades de seguridad, mejorando significativamente el rendimiento del sistema y la seguridad de los datos
+      - company: Decasystems
+        position: Pasante de Desarrollo Web
+        date:
+        start_date: 2025-02
+        end_date: 2025-04
+        location: Santiago, República Dominicana 
+        summary:
+        highlights:
+          - Optimización del rendimiento de la base de datos mediante el análisis de planes de ejecución y la reescritura de consultas PostgreSQL ineficientes utilizadas en JasperReports
+          - Ingeniería de una funcionalidad integral (end-to-end) para la Gestión de Lotes de Productos, integrándola sin problemas en la arquitectura ERP existente
+          - Realización de depuración (debugging) rápida y despliegue de parches para código heredado, resolviendo problemas de alta prioridad en un ciclo de desarrollo ágil
+    profesional_projects:
+      - name: ADSCON
+        date:
+        start_date: 2025-12
+        end_date: 2026-01
+        location: Santiago, República Dominicana
+        summary: Proyecto freelance para una empresa de gestión residencial
+        highlights:
+          - Transformación de requisitos de negocio complejos en un sistema funcional, optimizando las tareas administrativas para la gestión residencial
+          - Liderazgo del desarrollo de producto de principio a fin, desde el levantamiento inicial de requisitos y arquitectura del sistema hasta el despliegue final y mantenimiento
+          - Construcción de una interfaz web responsiva de alto rendimiento utilizando Java 25 y Vaadin 25, aprovechando las últimas características LTS para un stack tecnológico preparado para el futuro
+          - Implementación de una arquitectura de almacenamiento nativa en la nube utilizando el SDK de Amazon S3 y Digital Ocean Spaces para la gestión segura y escalable de documentos y facturas
+          - Desarrollo de una estrategia personalizada de copias de seguridad automatizadas para garantizar la integridad de los datos y la recuperación ante desastres de la base de datos de producción PostgreSQL
+    skills:
+      - label: Lenguajes
+        details: Java, Go, JavaScript (ES6+), Python, Bash
+      - label: Backend
+        details: Spring Boot, Quarkus, Keycloak (Auth), REST APIs
+      - label: Frontend
+        details: Vue 3 (Pinia, Vuetify/PrimeVue), Vaadin Flow, TailwindCSS, HTML5/CSS3
+      - label: Bases de Datos y Persistencia
+        details: PostgreSQL, Flyway (Migration), Hibernate ORM, JPA, H2
+      - label: Infraestructura y DevOps
+        details: Docker, Docker Compose, AWS, DigitalOcean (Droplets, Spaces), GitHub Actions (CI/CD)
+      - label: Movil
+        details: Android Development (Jetpack Compose, Room)
+      - label: Testing
+        details: JUnit, Rest Assured, Playwright
+      - label: Herramientas
+        details: Linux, Git, Maven, Gradle, Neovim, Intellij Idea, Postman, JIRA
+    certifications:
+      - bullet: Spring Boot 3, Spring 6 & Hibernate for Beginners - Udemy
+      - bullet: Database Change Management for Java Developers - JConf Dominicana
+      - bullet: Vue - The Complete Guide (incl. Router & Composition API) - Udemy
+      - bullet: Android App Components - Intents, Activities, and Broadcast Receivers - Vanderbilt University
+      - bullet: Introduction to Software Testing - University of Minnesota
+      - bullet: Boot.dev's Learn Shells and Terminals Course - Boot.dev
+      - bullet: HTML, CSS, and Javascript for Web Developers - Johns Hopkins University
+design:
+  theme: engineeringresumes
+  # page:
+  #   size: us-letter
+  #   top_margin: 0.7in
+  #   bottom_margin: 0.7in
+  #   left_margin: 0.7in
+  #   right_margin: 0.7in
+  #   show_footer: false
+  #   show_top_note: true
+  # colors:
+  #   body: rgb(0, 0, 0)
+  #   name: rgb(0, 0, 0)
+  #   headline: rgb(0, 0, 0)
+  #   connections: rgb(0, 0, 0)
+  #   section_titles: rgb(0, 0, 0)
+  #   links: rgb(0, 0, 0)
+  #   footer: rgb(128, 128, 128)
+  #   top_note: rgb(128, 128, 128)
+  # typography:
+  #   line_spacing: 0.6em
+  #   alignment: justified
+  #   date_and_location_column_alignment: right
+  #   font_family:
+  #     body: XCharter
+  #     name: XCharter
+  #     headline: XCharter
+  #     connections: XCharter
+  #     section_titles: XCharter
+  #   font_size:
+  #     body: 10pt
+  #     name: 25pt
+  #     headline: 10pt
+  #     connections: 10pt
+  #     section_titles: 1.2em
+  #   small_caps:
+  #     name: false
+  #     headline: false
+  #     connections: false
+  #     section_titles: false
+  #   bold:
+  #     name: false
+  #     headline: false
+  #     connections: false
+  #     section_titles: true
+  # links:
+  #   underline: true
+  #   show_external_link_icon: false
+  # header:
+  #   alignment: center
+  #   photo_width: 3.5cm
+  #   photo_position: left
+  #   photo_space_left: 0.4cm
+  #   photo_space_right: 0.4cm
+  #   space_below_name: 0.7cm
+  #   space_below_headline: 0.7cm
+  #   space_below_connections: 0.7cm
+  #   connections:
+  #     phone_number_format: national
+  #     hyperlink: true
+  #     show_icons: false
+  #     display_urls_instead_of_usernames: true
+  #     separator: '|'
+  #     space_between_connections: 0.5cm
+  # section_titles:
+  #   type: with_full_line
+  #   line_thickness: 0.5pt
+  #   space_above: 0.5cm
+  #   space_below: 0.3cm
+  # sections:
+  #   allow_page_break: true
+  #   space_between_regular_entries: 0.42cm
+  #   space_between_text_based_entries: 0.15cm
+  #   show_time_spans_in: []
+  # entries:
+  #   date_and_location_width: 4.15cm
+  #   side_space: 0cm
+  #   space_between_columns: 0.1cm
+  #   allow_page_break: false
+  #   short_second_row: false
+  #   summary:
+  #     space_above: 0.08cm
+  #     space_left: 0cm
+  #   highlights:
+  #     bullet: ●
+  #     nested_bullet: ●
+  #     space_left: 0cm
+  #     space_above: 0.08cm
+  #     space_between_items: 0.08cm
+  #     space_between_bullet_and_text: 0.3em
+  # templates:
+  #   footer: '*NAME -- PAGE_NUMBER/TOTAL_PAGES*'
+  #   top_note: '*LAST_UPDATED CURRENT_DATE*'
+  #   single_date: MONTH_ABBREVIATION YEAR
+  #   date_range: START_DATE – END_DATE
+  #   time_span: HOW_MANY_YEARS YEARS HOW_MANY_MONTHS MONTHS
+  #   one_line_entry:
+  #     main_column: '**LABEL:** DETAILS'
+  #   education_entry:
+  #     main_column: |-
+  #       **INSTITUTION**, DEGREE in AREA -- LOCATION
+  #       SUMMARY
+  #       HIGHLIGHTS
+  #     degree_column:
+  #     date_and_location_column: DATE
+  #   normal_entry:
+  #     main_column: |-
+  #       **NAME** -- **LOCATION**
+  #       SUMMARY
+  #       HIGHLIGHTS
+  #     date_and_location_column: DATE
+  #   experience_entry:
+  #     main_column: |-
+  #       **POSITION**, COMPANY -- LOCATION
+  #       SUMMARY
+  #       HIGHLIGHTS
+  #     date_and_location_column: DATE
+  #   publication_entry:
+  #     main_column: |-
+  #       **TITLE**
+  #       SUMMARY
+  #       AUTHORS
+  #       URL (JOURNAL)
+  #     date_and_location_column: DATE
+locale:
+  language: spanish
+  # last_updated: Last updated in
+  # month: month
+  # months: months
+  # year: year
+  # years: years
+  # present: present
+  # month_abbreviations:
+  #   - Jan
+  #   - Feb
+  #   - Mar
+  #   - Apr
+  #   - May
+  #   - June
+  #   - July
+  #   - Aug
+  #   - Sept
+  #   - Oct
+  #   - Nov
+  #   - Dec
+  # month_names:
+  #   - January
+  #   - February
+  #   - March
+  #   - April
+  #   - May
+  #   - June
+  #   - July
+  #   - August
+  #   - September
+  #   - October
+  #   - November
+  #   - December
+settings:
+  current_date: '2026-01-10'
+  render_command:
+    design:
+    locale:
+    typst_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.typ
+    pdf_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.pdf
+    markdown_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.md
+    html_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.html
+    png_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.png
+    dont_generate_markdown: false
+    dont_generate_html: false
+    dont_generate_typst: false
+    dont_generate_pdf: false
+    dont_generate_png: false
+  bold_keywords: []
