@@ -6,17 +6,17 @@
 - GitHub: [RandaeGS](https://github.com/RandaeGS)
 
 
-# About me
+# Acerca de mi
 Ingeniero en Ciencias de la Computación con un año de experiencia práctica en desarrollo Java. Competente en la creación de aplicaciones web utilizando frameworks de Java, incluyendo Spring y Quarkus, así como JavaScript con Vue.js, siguiendo metodologías ágiles. Experiencia con sistemas de control de versiones Git y cómodo trabajando en entornos de terminal y Linux. Ciudadano estadounidense.
 
-# Education
+# Educacion
 ## **Pontificia Universidad Católica Madre y Maestra (PUCMM)**, Grado in Ingeniería en Ciencias de la Computación -- Santiago, República DominicanaEne 2021 – Sep 2025
 
 - Tesis: Smart Stock Analyzer: Optimización de la gestión de inventario en centros de acopio en la República Dominicana mediante visión artificial
 
 
 
-# Experience
+# Experiencia
 ## **Desarrollador Web**, Decasystems -- Santiago, República Dominicana
 
 Abr 2025 – Nov 2025
@@ -45,7 +45,7 @@ Feb 2025 – Abr 2025
 
 
 
-# Profesional Projects
+# Proyectos Profesionales
 ## **ADSCON** -- **Santiago, República Dominicana**
 
 Dic 2025 – Ene 2026
@@ -64,7 +64,7 @@ Proyecto freelance para una empresa de gestión residencial
 
 
 
-# Skills
+# Habilidades
 **Lenguajes:** Java, Go, JavaScript (ES6+), Python, Bash
 
 **Backend:** Spring Boot, Quarkus, Keycloak (Auth), REST APIs
@@ -81,7 +81,7 @@ Proyecto freelance para una empresa de gestión residencial
 
 **Herramientas:** Linux, Git, Maven, Gradle, Neovim, Intellij Idea, Postman, JIRA
 
-# Certifications
+# Certificaciones
 - Spring Boot 3, Spring 6 & Hibernate for Beginners - Udemy
 
 - Database Change Management for Java Developers - JConf Dominicana

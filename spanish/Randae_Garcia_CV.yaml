@@ -14,9 +14,9 @@ cv:
       username: RandaeGS
   custom_connections:
   sections:
-    About me:
+    Acerca de mi:
       - Ingeniero en Ciencias de la Computación con un año de experiencia práctica en desarrollo Java. Competente en la creación de aplicaciones web utilizando frameworks de Java, incluyendo Spring y Quarkus, así como JavaScript con Vue.js, siguiendo metodologías ágiles. Experiencia con sistemas de control de versiones Git y cómodo trabajando en entornos de terminal y Linux. Ciudadano estadounidense.
-    education:
+    Educacion:
       - institution: Pontificia Universidad Católica Madre y Maestra (PUCMM)
         area: Ingeniería en Ciencias de la Computación
         degree: Grado
@@ -27,7 +27,7 @@ cv:
         summary:
         highlights:
           - 'Tesis: Smart Stock Analyzer: Optimización de la gestión de inventario en centros de acopio en la República Dominicana mediante visión artificial'
-    experience:
+    Experiencia :
       - company: Decasystems
         position: Desarrollador Web
         date:
@@ -52,7 +52,7 @@ cv:
           - Optimización del rendimiento de la base de datos mediante el análisis de planes de ejecución y la reescritura de consultas PostgreSQL ineficientes utilizadas en JasperReports
           - Ingeniería de una funcionalidad integral (end-to-end) para la Gestión de Lotes de Productos, integrándola sin problemas en la arquitectura ERP existente
           - Realización de depuración (debugging) rápida y despliegue de parches para código heredado, resolviendo problemas de alta prioridad en un ciclo de desarrollo ágil
-    profesional_projects:
+    proyectos_profesionales:
       - name: ADSCON
         date:
         start_date: 2025-12
@@ -65,7 +65,7 @@ cv:
           - Construcción de una interfaz web responsiva de alto rendimiento utilizando Java 25 y Vaadin 25, aprovechando las últimas características LTS para un stack tecnológico preparado para el futuro
           - Implementación de una arquitectura de almacenamiento nativa en la nube utilizando el SDK de Amazon S3 y Digital Ocean Spaces para la gestión segura y escalable de documentos y facturas
           - Desarrollo de una estrategia personalizada de copias de seguridad automatizadas para garantizar la integridad de los datos y la recuperación ante desastres de la base de datos de producción PostgreSQL
-    skills:
+    habilidades:
       - label: Lenguajes
         details: Java, Go, JavaScript (ES6+), Python, Bash
       - label: Backend
@@ -82,7 +82,7 @@ cv:
         details: JUnit, Rest Assured, Playwright
       - label: Herramientas
         details: Linux, Git, Maven, Gradle, Neovim, Intellij Idea, Postman, JIRA
-    certifications:
+    certificaciones:
       - bullet: Spring Boot 3, Spring 6 & Hibernate for Beginners - Udemy
       - bullet: Database Change Management for Java Developers - JConf Dominicana
       - bullet: Vue - The Complete Guide (incl. Router & Composition API) - Udemy

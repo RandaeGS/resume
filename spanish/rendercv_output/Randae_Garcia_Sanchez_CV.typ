@@ -93,11 +93,11 @@
 )
 
 
-== About me
+== Acerca de mi
 
 Ingeniero en Ciencias de la Computación con un año de experiencia práctica en desarrollo Java. Competente en la creación de aplicaciones web utilizando frameworks de Java, incluyendo Spring y Quarkus, así como JavaScript con Vue.js, siguiendo metodologías ágiles. Experiencia con sistemas de control de versiones Git y cómodo trabajando en entornos de terminal y Linux. Ciudadano estadounidense.
 
-== Education
+== Educacion
 
 #education-entry(
   [
@@ -114,7 +114,7 @@ Ingeniero en Ciencias de la Computación con un año de experiencia práctica en
   ],
 )
 
-== Experience
+== Experiencia
 
 #regular-entry(
   [
@@ -158,7 +158,7 @@ Ingeniero en Ciencias de la Computación con un año de experiencia práctica en
   ],
 )
 
-== Profesional Projects
+== Proyectos Profesionales
 
 #regular-entry(
   [
@@ -185,7 +185,7 @@ Ingeniero en Ciencias de la Computación con un año de experiencia práctica en
   ],
 )
 
-== Skills
+== Habilidades
 
 #strong[Lenguajes:] Java, Go, JavaScript (ES6+), Python, Bash
 
@@ -203,7 +203,7 @@ Ingeniero en Ciencias de la Computación con un año de experiencia práctica en
 
 #strong[Herramientas:] Linux, Git, Maven, Gradle, Neovim, Intellij Idea, Postman, JIRA
 
-== Certifications
+== Certificaciones
 
 - Spring Boot 3, Spring 6 & Hibernate for Beginners - Udemy
 
