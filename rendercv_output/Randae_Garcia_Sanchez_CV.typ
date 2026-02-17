@@ -88,6 +88,7 @@
 #connections(
   [Wilkes Barre, PA],
   [#link("mailto:garciasanchezrd@gmail.com", icon: false, if-underline: false, if-color: false)[garciasanchezrd\@gmail.com]],
+  [#link("tel:+1-570-578-2550", icon: false, if-underline: false, if-color: false)[(570) 578-2550]],
   [#link("https://linkedin.com/in/randae-garcia-sanchez", icon: false, if-underline: false, if-color: false)[linkedin.com\/in\/randae-garcia-sanchez]],
   [#link("https://github.com/RandaeGS", icon: false, if-underline: false, if-color: false)[github.com\/RandaeGS]],
 )
@@ -118,6 +119,29 @@ Computer Science Engineer with one year of hands-on experience in Java developme
 
 #regular-entry(
   [
+    #strong[Software Engineer], Adscon -- Santiago, Dominican Republic
+
+  ],
+  [
+    Dec 2025 – present
+
+  ],
+  main-column-second-row: [
+    #summary[Freelance project for a residential management company]
+
+    - Transformed complex business requirements into a functional system, streamlining administration tasks for residential management
+
+    - Built a high-performance responsive web interface using Java 25 and Vaadin 25, leveraging the latest LTS features for a future-proof tech stack
+
+    - Implemented a cloud-native storage architecture using the Amazon S3 SDK and Digital Ocean Spaces for secure, scalable document and invoice management
+
+    - Developed a custom automated backup strategy to ensure data integrity and disaster recovery for the PostgreSQL production database
+
+  ],
+)
+
+#regular-entry(
+  [
     #strong[Web Developer], Decasystems -- Santiago, Dominican Republic
 
   ],
@@ -130,9 +154,7 @@ Computer Science Engineer with one year of hands-on experience in Java developme
 
     - Designed and deployed scalable custom modules to facilitate the onboarding of new enterprise clients into the legacy ecosystem
 
-    - Proposed initiatives to improve existing code quality by coordinating technical meetings with the development team to establish and promote best programming practices
-
-    - Developed critical internal utilities to resolve high-priority problems in electronic invoicing (e-CF) processing
+    - Developed critical internal utilities using Playwright to resolve high-priority problems in electronic invoicing (e-CF) processing
 
     - Audited existing REST APIs to identify and patch security vulnerabilities, significantly enhancing system performance and data safety
 
@@ -154,33 +176,6 @@ Computer Science Engineer with one year of hands-on experience in Java developme
     - Engineered an end-to-end Product Batch Management feature, integrating it seamlessly into the existing ERP architecture
 
     - Conducted rapid debugging and patch deployment for legacy code, resolving high-priority issues in a fast-paced development cycle
-
-  ],
-)
-
-== Profesional Projects
-
-#regular-entry(
-  [
-    #strong[ADSCON] -- #strong[Santiago, Dominican Republic]
-
-  ],
-  [
-    Dec 2025 – Jan 2026
-
-  ],
-  main-column-second-row: [
-    #summary[Freelance project for a residential management company]
-
-    - Transformed complex business requirements into a functional system, streamlining administration tasks for residential management
-
-    - Led end-to-end product development, from initial requirement gathering and system architecture to final deployment and maintenance
-
-    - Built a high-performance responsive web interface using Java 25 and Vaadin 25, leveraging the latest LTS features for a future-proof tech stack
-
-    - Implemented a cloud-native storage architecture using the Amazon S3 SDK and Digital Ocean Spaces for secure, scalable document and invoice management
-
-    - Developed a custom automated backup strategy to ensure data integrity and disaster recovery for the PostgreSQL production database
 
   ],
 )

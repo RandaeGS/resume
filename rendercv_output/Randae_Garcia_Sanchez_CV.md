@@ -1,5 +1,6 @@
 # Randae Garcia Sanchez's CV
 
+- Phone: +1 570 578 2550
 - Email: [garciasanchezrd@gmail.com](mailto:garciasanchezrd@gmail.com)
 - Location: Wilkes Barre, PA
 - LinkedIn: [randae-garcia-sanchez](https://linkedin.com/in/randae-garcia-sanchez)
@@ -17,6 +18,22 @@ Computer Science Engineer with one year of hands-on experience in Java developme
 
 
 # Experience
+## **Software Engineer**, Adscon -- Santiago, Dominican Republic
+
+Dec 2025 – present
+
+Freelance project for a residential management company
+
+- Transformed complex business requirements into a functional system, streamlining administration tasks for residential management
+
+- Built a high-performance responsive web interface using Java 25 and Vaadin 25, leveraging the latest LTS features for a future-proof tech stack
+
+- Implemented a cloud-native storage architecture using the Amazon S3 SDK and Digital Ocean Spaces for secure, scalable document and invoice management
+
+- Developed a custom automated backup strategy to ensure data integrity and disaster recovery for the PostgreSQL production database
+
+
+
 ## **Web Developer**, Decasystems -- Santiago, Dominican Republic
 
 Apr 2025 – Nov 2025
@@ -25,9 +42,7 @@ Apr 2025 – Nov 2025
 
 - Designed and deployed scalable custom modules to facilitate the onboarding of new enterprise clients into the legacy ecosystem
 
-- Proposed initiatives to improve existing code quality by coordinating technical meetings with the development team to establish and promote best programming practices
-
-- Developed critical internal utilities to resolve high-priority problems in electronic invoicing (e-CF) processing
+- Developed critical internal utilities using Playwright to resolve high-priority problems in electronic invoicing (e-CF) processing
 
 - Audited existing REST APIs to identify and patch security vulnerabilities, significantly enhancing system performance and data safety
 
@@ -42,25 +57,6 @@ Feb 2025 – Apr 2025
 - Engineered an end-to-end Product Batch Management feature, integrating it seamlessly into the existing ERP architecture
 
 - Conducted rapid debugging and patch deployment for legacy code, resolving high-priority issues in a fast-paced development cycle
-
-
-
-# Profesional Projects
-## **ADSCON** -- **Santiago, Dominican Republic**
-
-Dec 2025 – Jan 2026
-
-Freelance project for a residential management company
-
-- Transformed complex business requirements into a functional system, streamlining administration tasks for residential management
-
-- Led end-to-end product development, from initial requirement gathering and system architecture to final deployment and maintenance
-
-- Built a high-performance responsive web interface using Java 25 and Vaadin 25, leveraging the latest LTS features for a future-proof tech stack
-
-- Implemented a cloud-native storage architecture using the Amazon S3 SDK and Digital Ocean Spaces for secure, scalable document and invoice management
-
-- Developed a custom automated backup strategy to ensure data integrity and disaster recovery for the PostgreSQL production database
 
 
 
