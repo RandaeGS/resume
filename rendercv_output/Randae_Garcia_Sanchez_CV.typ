@@ -182,21 +182,21 @@ Computer Science Engineer with one year of hands-on experience in Java developme
 
 == Skills
 
-#strong[Languages:] Java, Go, JavaScript (ES6+), Python, C\#
+#strong[Languages:] Java, Go, JavaScript\/Typescript, Python
 
-#strong[Backend:] Spring Boot, Quarkus, .NET, Keycloak (Auth), OAuth, REST APIs
+#strong[Backend:] Spring Boot, Quarkus, Keycloak (Auth), OAuth, REST APIs
 
 #strong[Frontend:] Vue 3 (Pinia, Vuetify\/PrimeVue), Angular, Vaadin Flow, TailwindCSS, HTML5\/CSS3
 
-#strong[Databases & Persistence:] PostgreSQL, Flyway (Migration), Entity Framework, Hibernate ORM, JPA, H2
+#strong[Databases & Persistence:] PostgreSQL, Flyway (Migration), Hibernate ORM, JPA, H2
 
-#strong[Infrastructure & DevOps:] Docker, Docker Compose, AWS, DigitalOcean (Droplets, Spaces), Azure, GitHub Actions (CI\/CD)
+#strong[Infrastructure & DevOps:] Docker, Docker Compose, AWS EC2, AWS S3, DigitalOcean (Droplets, Spaces), GitHub Actions (CI\/CD)
 
 #strong[Mobile:] Android Development (Jetpack Compose, Room), Flutter
 
 #strong[Testing:] JUnit, Rest Assured, Playwright
 
-#strong[Tools:] Linux, Git, Maven, Gradle, Neovim, Intellij Idea, Postman, JIRA
+#strong[Tools:] Linux, Git, Maven, Gradle, Neovim, Intellij Idea, Postman, JIRA, AGILE
 
 == Certifications
 
