@@ -96,7 +96,7 @@
 
 == About me
 
-Computer Science Engineer with one year of hands-on experience in Java development. Proficient in building web applications using Java frameworks including Spring and Quarkus, as well as JavaScript with Vue.js, following agile methodologies. Experienced with Git version control systems and comfortable working in terminal and Linux environments. US Citizen.
+Computer Science Engineer with two years of hands-on experience in Java development. Proficient in building web applications using Java frameworks including Spring and Quarkus, as well as JavaScript with Vue.js, following agile methodologies. Experienced with Git version control systems and comfortable working in terminal and Linux environments. US Citizen.
 
 == Education
 
@@ -182,13 +182,13 @@ Computer Science Engineer with one year of hands-on experience in Java developme
 
 == Skills
 
-#strong[Languages:] Java, Go, JavaScript\/Typescript, Python
+#strong[Languages:] Java, Go, JavaScript\/Typescript, Python, C\#
 
-#strong[Backend:] Spring Boot, Quarkus, Keycloak (Auth), OAuth, REST APIs
+#strong[Backend:] Spring Boot, Quarkus, .NET, Keycloak (Auth), OAuth, REST APIs
 
 #strong[Frontend:] Vue 3 (Pinia, Vuetify\/PrimeVue), Angular, Vaadin Flow, TailwindCSS, HTML5\/CSS3
 
-#strong[Databases & Persistence:] PostgreSQL, Flyway (Migration), Hibernate ORM, JPA, H2
+#strong[Databases & Persistence:] PostgreSQL, Flyway (Migration), Hibernate ORM, JPA, Entity Framework, SQL Server, H2
 
 #strong[Infrastructure & DevOps:] Docker, Docker Compose, AWS EC2, AWS S3, DigitalOcean (Droplets, Spaces), GitHub Actions (CI\/CD)
 

@@ -8,7 +8,7 @@
 
 
 # About me
-Computer Science Engineer with one year of hands-on experience in Java development. Proficient in building web applications using Java frameworks including Spring and Quarkus, as well as JavaScript with Vue.js, following agile methodologies. Experienced with Git version control systems and comfortable working in terminal and Linux environments. US Citizen.
+Computer Science Engineer with two years of hands-on experience in Java development. Proficient in building web applications using Java frameworks including Spring and Quarkus, as well as JavaScript with Vue.js, following agile methodologies. Experienced with Git version control systems and comfortable working in terminal and Linux environments. US Citizen.
 
 # Education
 ## **Pontifica Universidad Catolica Madre y Maestra (PUCMM)**, BS in Computer Science Engineering -- Santiago, Dominican RepublicJan 2021 – Sept 2025
@@ -61,13 +61,13 @@ Feb 2025 – Apr 2025
 
 
 # Skills
-**Languages:** Java, Go, JavaScript/Typescript, Python
+**Languages:** Java, Go, JavaScript/Typescript, Python, C#
 
-**Backend:** Spring Boot, Quarkus, Keycloak (Auth), OAuth, REST APIs
+**Backend:** Spring Boot, Quarkus, .NET, Keycloak (Auth), OAuth, REST APIs
 
 **Frontend:** Vue 3 (Pinia, Vuetify/PrimeVue), Angular, Vaadin Flow, TailwindCSS, HTML5/CSS3
 
-**Databases & Persistence:** PostgreSQL, Flyway (Migration), Hibernate ORM, JPA, H2
+**Databases & Persistence:** PostgreSQL, Flyway (Migration), Hibernate ORM, JPA, Entity Framework, SQL Server, H2
 
 **Infrastructure & DevOps:** Docker, Docker Compose, AWS EC2, AWS S3, DigitalOcean (Droplets, Spaces), GitHub Actions (CI/CD)
 
