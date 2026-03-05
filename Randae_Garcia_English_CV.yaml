@@ -65,21 +65,21 @@ cv:
           - Conducted rapid debugging and patch deployment for legacy code, resolving high-priority issues in a fast-paced development cycle
     skills:
       - label: Languages
-        details: Java, Go, JavaScript/Typescript, Python, C#
+        details: Java, Go, JavaScript/Typescript, Python, Bash
       - label: Backend
-        details: Spring Boot, Quarkus, .NET, Keycloak (Auth), OAuth, REST APIs
+        details: Spring Boot, Quarkus, Keycloak, OAuth, REST APIs
       - label: Frontend
         details: Vue 3 (Pinia, Vuetify/PrimeVue), Angular, Vaadin Flow, TailwindCSS, HTML5/CSS3
       - label: Databases & Persistence
-        details: PostgreSQL, Flyway (Migration), Hibernate ORM, JPA, Entity Framework, SQL Server, H2
+        details: PostgreSQL, SQL Server, H2, Flyway (Migration), Hibernate ORM, JPA
       - label: Infrastructure & DevOps
         details: Docker, Docker Compose, AWS EC2, AWS S3, DigitalOcean (Droplets, Spaces), GitHub Actions (CI/CD)
       - label: Mobile
-        details: Android Development (Jetpack Compose, Room), Flutter
+        details: Android Development (Jetpack Compose), Flutter
       - label: Testing
-        details: JUnit, Rest Assured, Playwright
+        details: JUnit, Rest Assured, Playwright, Unit Testing, E2E Testing, Stress Testing
       - label: Tools
-        details: Linux, Git, Maven, Gradle, Neovim, Intellij Idea, Postman, JIRA, AGILE
+        details: Linux, Git, Maven, Gradle, Neovim, Intellij Idea, Postman, JIRA, AGILE, Github, Bitbucket, AI
     certifications:
       - bullet: Spring Boot 3, Spring 6 & Hibernate for Beginners - Udemy
       - bullet: Database Change Management for Java Developers - JConf Dominicana
