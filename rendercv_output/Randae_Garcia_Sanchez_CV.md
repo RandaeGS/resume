@@ -61,21 +61,21 @@ Feb 2025 – Apr 2025
 
 
 # Skills
-**Languages:** Java, Go, JavaScript/Typescript, Python, C#
+**Languages:** Java, Go, JavaScript/Typescript, Python, Bash
 
-**Backend:** Spring Boot, Quarkus, .NET, Keycloak (Auth), OAuth, REST APIs
+**Backend:** Spring Boot, Quarkus, Keycloak, OAuth, REST APIs
 
 **Frontend:** Vue 3 (Pinia, Vuetify/PrimeVue), Angular, Vaadin Flow, TailwindCSS, HTML5/CSS3
 
-**Databases & Persistence:** PostgreSQL, Flyway (Migration), Hibernate ORM, JPA, Entity Framework, SQL Server, H2
+**Databases & Persistence:** PostgreSQL, SQL Server, H2, Flyway (Migration), Hibernate ORM, JPA
 
 **Infrastructure & DevOps:** Docker, Docker Compose, AWS EC2, AWS S3, DigitalOcean (Droplets, Spaces), GitHub Actions (CI/CD)
 
-**Mobile:** Android Development (Jetpack Compose, Room), Flutter
+**Mobile:** Android Development (Jetpack Compose), Flutter
 
-**Testing:** JUnit, Rest Assured, Playwright
+**Testing:** JUnit, Rest Assured, Playwright, Unit Testing, E2E Testing, Stress Testing
 
-**Tools:** Linux, Git, Maven, Gradle, Neovim, Intellij Idea, Postman, JIRA, AGILE
+**Tools:** Linux, Git, Maven, Gradle, Neovim, Intellij Idea, Postman, JIRA, AGILE, Github, Bitbucket, AI
 
 # Certifications
 - Spring Boot 3, Spring 6 & Hibernate for Beginners - Udemy
