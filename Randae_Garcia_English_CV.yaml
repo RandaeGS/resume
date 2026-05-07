@@ -3,7 +3,7 @@ cv:
   name: Randae Garcia Sanchez
   headline:
   location: Wilkes Barre, PA
-  email: garciasanchezrd@gmail.com
+  email: randaegs@protonmail.com
   photo:
   phone: +1 (570)-578-2550
   website: 
@@ -26,7 +26,7 @@ cv:
         location: Santiago, Dominican Republic
         summary:
         highlights:
-          - 'Thesis: Smart Stock Analyzer: Stock management optimization in collection centers in the Dominican Republic via computer vision'
+          - 'Thesis: Smart Stock Analyzer: Inventory management optimization in collection centers in the Dominican Republic via computer vision'
     experience:
       - company: Adscon
         position: Software Engineer
@@ -88,6 +88,8 @@ cv:
       - bullet: Introduction to Software Testing - University of Minnesota
       - bullet: Boot.dev's Learn Shells and Terminals Course - Boot.dev
       - bullet: HTML, CSS, and Javascript for Web Developers - Johns Hopkins University
+    references:
+      - bullet: Luis Mejia Peguero
 design:
   theme: engineeringresumes
   # page:
