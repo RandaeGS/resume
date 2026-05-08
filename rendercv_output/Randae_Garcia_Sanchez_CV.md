@@ -1,7 +1,7 @@
 # Randae Garcia Sanchez's CV
 
 - Phone: +1 570 578 2550
-- Email: [garciasanchezrd@gmail.com](mailto:garciasanchezrd@gmail.com)
+- Email: [randaegs@protonmail.com](mailto:randaegs@protonmail.com)
 - Location: Wilkes Barre, PA
 - LinkedIn: [randae-garcia-sanchez](https://linkedin.com/in/randae-garcia-sanchez)
 - GitHub: [RandaeGS](https://github.com/RandaeGS)
@@ -13,7 +13,7 @@ Computer Science Engineer with two years of hands-on experience in Java developm
 # Education
 ## **Pontifica Universidad Catolica Madre y Maestra (PUCMM)**, BS in Computer Science Engineering -- Santiago, Dominican RepublicJan 2021 – Sept 2025
 
-- Thesis: Smart Stock Analyzer: Stock management optimization in collection centers in the Dominican Republic via computer vision
+- Thesis: Smart Stock Analyzer: Inventory management optimization in collection centers in the Dominican Republic via computer vision
 
 
 
@@ -91,3 +91,6 @@ Feb 2025 – Apr 2025
 - Boot.dev's Learn Shells and Terminals Course - Boot.dev
 
 - HTML, CSS, and Javascript for Web Developers - Johns Hopkins University
+
+# References
+- Luis Mejia Peguero, Assigned Solutions Engineer at Focus Technology, +1 401-753-1222

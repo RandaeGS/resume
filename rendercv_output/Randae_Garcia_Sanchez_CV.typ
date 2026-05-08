@@ -87,7 +87,7 @@
 
 #connections(
   [Wilkes Barre, PA],
-  [#link("mailto:garciasanchezrd@gmail.com", icon: false, if-underline: false, if-color: false)[garciasanchezrd\@gmail.com]],
+  [#link("mailto:randaegs@protonmail.com", icon: false, if-underline: false, if-color: false)[randaegs\@protonmail.com]],
   [#link("tel:+1-570-578-2550", icon: false, if-underline: false, if-color: false)[(570) 578-2550]],
   [#link("https://linkedin.com/in/randae-garcia-sanchez", icon: false, if-underline: false, if-color: false)[linkedin.com\/in\/randae-garcia-sanchez]],
   [#link("https://github.com/RandaeGS", icon: false, if-underline: false, if-color: false)[github.com\/RandaeGS]],
@@ -110,7 +110,7 @@ Computer Science Engineer with two years of hands-on experience in Java developm
 
   ],
   main-column-second-row: [
-    - Thesis: Smart Stock Analyzer: Stock management optimization in collection centers in the Dominican Republic via computer vision
+    - Thesis: Smart Stock Analyzer: Inventory management optimization in collection centers in the Dominican Republic via computer vision
 
   ],
 )
@@ -213,3 +213,7 @@ Computer Science Engineer with two years of hands-on experience in Java developm
 - Boot.dev's Learn Shells and Terminals Course - Boot.dev
 
 - HTML, CSS, and Javascript for Web Developers - Johns Hopkins University
+
+== References
+
+- Luis Mejia Peguero, Assigned Solutions Engineer at Focus Technology, +1 401-753-1222
