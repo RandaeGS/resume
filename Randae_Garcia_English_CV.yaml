@@ -15,7 +15,7 @@ cv:
   custom_connections:
   sections:
     About me:
-      - Computer Science Engineer with two years of hands-on experience in Java development. Proficient in building web applications using Java frameworks including Spring and Quarkus, as well as JavaScript with Vue.js, following agile methodologies. Experienced with Git version control systems and comfortable working in terminal and Linux environments. US Citizen.
+      - Computer Science Engineer with two years of hands-on experience in Java development. Proficient in building both monolithic and microservices based web applications using Java frameworks such as Spring, Quarkus and Vaadin, as well as JavaScript with Vue.js, following agile methodologies. Experienced with Git version control systems and comfortable working in terminal and Linux environments. US Citizen willing to relocate inside the US.
     education:
       - institution: Pontifica Universidad Catolica Madre y Maestra (PUCMM)
         area: Computer Science Engineering
@@ -67,24 +67,24 @@ cv:
       - label: Languages
         details: Java, Go, JavaScript/Typescript, Python, Bash
       - label: Backend
-        details: Spring Boot, Quarkus, Keycloak, OAuth, REST APIs
+        details: Spring Boot, Quarkus, Keycloak, OAuth, REST APIs, GraphQL
       - label: Frontend
-        details: Vue 3 (Pinia, Vuetify/PrimeVue), Angular, Vaadin Flow, TailwindCSS, HTML5/CSS3
+        details: Vue 3 (Pinia, Vuetify/PrimeVue), Angular, Vaadin, TailwindCSS, HTML5/CSS3
       - label: Databases & Persistence
         details: PostgreSQL, SQL Server, H2, Flyway (Migration), Hibernate ORM, JPA
       - label: Infrastructure & DevOps
-        details: Docker, Docker Compose, AWS EC2, AWS S3, DigitalOcean (Droplets, Spaces), GitHub Actions (CI/CD)
+        details: Docker, Docker Compose, Kubernetes, Kafka, RabbitMQ, AWS, DigitalOcean, GitHub Actions (CI/CD)
       - label: Mobile
-        details: Android Development (Jetpack Compose), Flutter
+        details: Kotlin, Android Development (Jetpack Compose), Flutter
       - label: Testing
-        details: JUnit, Rest Assured, Playwright, Unit Testing, E2E Testing, Stress Testing
+        details: JUnit, Rest Assured, Playwright, Unit Testing, E2E Testing, JMeter, Stress Testing
       - label: Tools
         details: Linux, Git, Maven, Gradle, Neovim, Intellij Idea, Postman, JIRA, AGILE, Github, Bitbucket, AI
     certifications:
       - bullet: Spring Boot 3, Spring 6 & Hibernate for Beginners - Udemy
       - bullet: Database Change Management for Java Developers - JConf Dominicana
       - bullet: Vue - The Complete Guide (incl. Router & Composition API) - Udemy
-      - bullet: Android App Components - Intents, Activities, and Broadcast Receivers - Vanderbilt University
+      - bullet: Software Architecture & Design of Modern Large Scale Systems - Udemy
       - bullet: Introduction to Software Testing - University of Minnesota
       - bullet: Boot.dev's Learn Shells and Terminals Course - Boot.dev
       - bullet: HTML, CSS, and Javascript for Web Developers - Johns Hopkins University

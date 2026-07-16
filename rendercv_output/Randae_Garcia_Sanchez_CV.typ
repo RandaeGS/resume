@@ -1,12 +1,14 @@
 // Import the rendercv function and all the refactored components
-#import "@preview/rendercv:0.1.0": *
+#import "@preview/rendercv:0.3.0": *
 
 // Apply the rendercv template with custom configuration
 #show: rendercv.with(
   name: "Randae Garcia Sanchez",
+  title: "Randae Garcia Sanchez - CV",
   footer: context { [#emph[Randae Garcia Sanchez -- #str(here().page())\/#str(counter(page).final().first())]] },
   top-note: [ #emph[Last updated in Jan 2026] ],
   locale-catalog-language: "en",
+  text-direction: ltr,
   page-size: "us-letter",
   page-top-margin: 0.7in,
   page-bottom-margin: 0.7in,
@@ -67,6 +69,7 @@
   entries-space-between-columns: 0.1cm,
   entries-allow-page-break: false,
   entries-short-second-row: false,
+  entries-degree-width: 1cm,
   entries-summary-space-left: 0cm,
   entries-summary-space-above: 0.08cm,
   entries-highlights-bullet:  text(13pt, [•], baseline: -0.6pt) ,
@@ -96,7 +99,7 @@
 
 == About me
 
-Computer Science Engineer with two years of hands-on experience in Java development. Proficient in building web applications using Java frameworks including Spring and Quarkus, as well as JavaScript with Vue.js, following agile methodologies. Experienced with Git version control systems and comfortable working in terminal and Linux environments. US Citizen.
+Computer Science Engineer with two years of hands-on experience in Java development. Proficient in building both monolithic and microservices based web applications using Java frameworks such as Spring, Quarkus and Vaadin, as well as JavaScript with Vue.js, following agile methodologies. Experienced with Git version control systems and comfortable working in terminal and Linux environments. US Citizen willing to relocate inside the US.
 
 == Education
 
@@ -184,17 +187,17 @@ Computer Science Engineer with two years of hands-on experience in Java developm
 
 #strong[Languages:] Java, Go, JavaScript\/Typescript, Python, Bash
 
-#strong[Backend:] Spring Boot, Quarkus, Keycloak, OAuth, REST APIs
+#strong[Backend:] Spring Boot, Quarkus, Keycloak, OAuth, REST APIs, GraphQL
 
-#strong[Frontend:] Vue 3 (Pinia, Vuetify\/PrimeVue), Angular, Vaadin Flow, TailwindCSS, HTML5\/CSS3
+#strong[Frontend:] Vue 3 (Pinia, Vuetify\/PrimeVue), Angular, Vaadin, TailwindCSS, HTML5\/CSS3
 
 #strong[Databases & Persistence:] PostgreSQL, SQL Server, H2, Flyway (Migration), Hibernate ORM, JPA
 
-#strong[Infrastructure & DevOps:] Docker, Docker Compose, AWS EC2, AWS S3, DigitalOcean (Droplets, Spaces), GitHub Actions (CI\/CD)
+#strong[Infrastructure & DevOps:] Docker, Docker Compose, Kubernetes, Kafka, RabbitMQ, AWS, DigitalOcean, GitHub Actions (CI\/CD)
 
-#strong[Mobile:] Android Development (Jetpack Compose), Flutter
+#strong[Mobile:] Kotlin, Android Development (Jetpack Compose), Flutter
 
-#strong[Testing:] JUnit, Rest Assured, Playwright, Unit Testing, E2E Testing, Stress Testing
+#strong[Testing:] JUnit, Rest Assured, Playwright, Unit Testing, E2E Testing, JMeter, Stress Testing
 
 #strong[Tools:] Linux, Git, Maven, Gradle, Neovim, Intellij Idea, Postman, JIRA, AGILE, Github, Bitbucket, AI
 
@@ -206,7 +209,7 @@ Computer Science Engineer with two years of hands-on experience in Java developm
 
 - Vue - The Complete Guide (incl. Router & Composition API) - Udemy
 
-- Android App Components - Intents, Activities, and Broadcast Receivers - Vanderbilt University
+- Software Architecture & Design of Modern Large Scale Systems - Udemy
 
 - Introduction to Software Testing - University of Minnesota
 

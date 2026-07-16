@@ -8,10 +8,11 @@
 
 
 # About me
-Computer Science Engineer with two years of hands-on experience in Java development. Proficient in building web applications using Java frameworks including Spring and Quarkus, as well as JavaScript with Vue.js, following agile methodologies. Experienced with Git version control systems and comfortable working in terminal and Linux environments. US Citizen.
+Computer Science Engineer with two years of hands-on experience in Java development. Proficient in building both monolithic and microservices based web applications using Java frameworks such as Spring, Quarkus and Vaadin, as well as JavaScript with Vue.js, following agile methodologies. Experienced with Git version control systems and comfortable working in terminal and Linux environments. US Citizen willing to relocate inside the US.
 
 # Education
-## **Pontifica Universidad Catolica Madre y Maestra (PUCMM)**, BS in Computer Science Engineering -- Santiago, Dominican RepublicJan 2021 – Sept 2025
+## **Pontifica Universidad Catolica Madre y Maestra (PUCMM)**, BS in Computer Science Engineering -- Santiago, Dominican Republic
+Jan 2021 – Sept 2025
 
 - Thesis: Smart Stock Analyzer: Inventory management optimization in collection centers in the Dominican Republic via computer vision
 
@@ -63,17 +64,17 @@ Feb 2025 – Apr 2025
 # Skills
 **Languages:** Java, Go, JavaScript/Typescript, Python, Bash
 
-**Backend:** Spring Boot, Quarkus, Keycloak, OAuth, REST APIs
+**Backend:** Spring Boot, Quarkus, Keycloak, OAuth, REST APIs, GraphQL
 
-**Frontend:** Vue 3 (Pinia, Vuetify/PrimeVue), Angular, Vaadin Flow, TailwindCSS, HTML5/CSS3
+**Frontend:** Vue 3 (Pinia, Vuetify/PrimeVue), Angular, Vaadin, TailwindCSS, HTML5/CSS3
 
 **Databases & Persistence:** PostgreSQL, SQL Server, H2, Flyway (Migration), Hibernate ORM, JPA
 
-**Infrastructure & DevOps:** Docker, Docker Compose, AWS EC2, AWS S3, DigitalOcean (Droplets, Spaces), GitHub Actions (CI/CD)
+**Infrastructure & DevOps:** Docker, Docker Compose, Kubernetes, Kafka, RabbitMQ, AWS, DigitalOcean, GitHub Actions (CI/CD)
 
-**Mobile:** Android Development (Jetpack Compose), Flutter
+**Mobile:** Kotlin, Android Development (Jetpack Compose), Flutter
 
-**Testing:** JUnit, Rest Assured, Playwright, Unit Testing, E2E Testing, Stress Testing
+**Testing:** JUnit, Rest Assured, Playwright, Unit Testing, E2E Testing, JMeter, Stress Testing
 
 **Tools:** Linux, Git, Maven, Gradle, Neovim, Intellij Idea, Postman, JIRA, AGILE, Github, Bitbucket, AI
 
@@ -84,7 +85,7 @@ Feb 2025 – Apr 2025
 
 - Vue - The Complete Guide (incl. Router & Composition API) - Udemy
 
-- Android App Components - Intents, Activities, and Broadcast Receivers - Vanderbilt University
+- Software Architecture & Design of Modern Large Scale Systems - Udemy
 
 - Introduction to Software Testing - University of Minnesota
 
