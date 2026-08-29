@@ -1,12 +1,14 @@
 // Import the rendercv function and all the refactored components
-#import "@preview/rendercv:0.1.0": *
+#import "@preview/rendercv:0.3.0": *
 
 // Apply the rendercv template with custom configuration
 #show: rendercv.with(
   name: "Randae Garcia Sanchez",
+  title: "Randae Garcia Sanchez - CV",
   footer: context { [#emph[Randae Garcia Sanchez -- #str(here().page())\/#str(counter(page).final().first())]] },
-  top-note: [ #emph[Última actualización Ene 2026] ],
+  top-note: [ #emph[Última actualización Ago 2026] ],
   locale-catalog-language: "es",
+  text-direction: ltr,
   page-size: "us-letter",
   page-top-margin: 0.7in,
   page-bottom-margin: 0.7in,
@@ -67,6 +69,7 @@
   entries-space-between-columns: 0.1cm,
   entries-allow-page-break: false,
   entries-short-second-row: false,
+  entries-degree-width: 1cm,
   entries-summary-space-left: 0cm,
   entries-summary-space-above: 0.08cm,
   entries-highlights-bullet:  text(13pt, [•], baseline: -0.6pt) ,
@@ -77,8 +80,8 @@
   entries-highlights-space-between-bullet-and-text: 0.3em,
   date: datetime(
     year: 2026,
-    month: 1,
-    day: 10,
+    month: 8,
+    day: 7,
   ),
 )
 
@@ -86,8 +89,9 @@
 = Randae Garcia Sanchez
 
 #connections(
-  [Santiago, Republica Dominicana],
-  [#link("mailto:garciasanchezrd@gmail.com", icon: false, if-underline: false, if-color: false)[garciasanchezrd\@gmail.com]],
+  [Wilkes Barre, PA],
+  [#link("mailto:randaegs@protonmail.com", icon: false, if-underline: false, if-color: false)[randaegs\@protonmail.com]],
+  [#link("tel:+1-570-578-2550", icon: false, if-underline: false, if-color: false)[(570) 578-2550]],
   [#link("https://linkedin.com/in/randae-garcia-sanchez", icon: false, if-underline: false, if-color: false)[linkedin.com\/in\/randae-garcia-sanchez]],
   [#link("https://github.com/RandaeGS", icon: false, if-underline: false, if-color: false)[github.com\/RandaeGS]],
 )
@@ -95,13 +99,13 @@
 
 == Acerca de mi
 
-Ingeniero en Ciencias de la Computación con un año de experiencia práctica en desarrollo Java. Competente en la creación de aplicaciones web utilizando frameworks de Java, incluyendo Spring y Quarkus, así como JavaScript con Vue.js, siguiendo metodologías ágiles. Experiencia con sistemas de control de versiones Git y cómodo trabajando en entornos de terminal y Linux. Ciudadano estadounidense.
+Ingeniero en Ciencias de la Computación con dos años de experiencia práctica en desarrollo con Java. Competente en la creación de aplicaciones web monolíticas y basadas en microservicios utilizando frameworks de Java como Spring, Quarkus y Vaadin, así como JavaScript con Vue, siguiendo metodologías ágiles. Experiencia con sistemas de control de versiones Git y facilidad para trabajar en terminal y entornos Linux.
 
-== Educacion
+== Educación
 
 #education-entry(
   [
-    #strong[Pontificia Universidad Católica Madre y Maestra (PUCMM)], Grado in Ingeniería en Ciencias de la Computación -- Santiago, República Dominicana
+    #strong[Pontifica Universidad Catolica Madre y Maestra (PUCMM)], Ingenieria en Ciencias de la Computación -- Santiago, República Dominicana
 
   ],
   [
@@ -109,12 +113,35 @@ Ingeniero en Ciencias de la Computación con un año de experiencia práctica en
 
   ],
   main-column-second-row: [
-    - Tesis: Smart Stock Analyzer: Optimización de la gestión de inventario en centros de acopio en la República Dominicana mediante visión artificial
+    - Tesis: Smart Stock Analyzer: Optimización de la gestión de inventarios en centros de acopio de la República Dominicana mediante visión por computadora
 
   ],
 )
 
 == Experiencia
+
+#regular-entry(
+  [
+    #strong[Ingeniero de Software], Adscon -- Santiago, República Dominicana
+
+  ],
+  [
+    Dic 2025 – presente
+
+  ],
+  main-column-second-row: [
+    #summary[Proyecto freelance para una empresa de administración residencial]
+
+    - Transformé requisitos empresariales complejos en un sistema funcional, optimizando las tareas administrativas de la gestión residencial
+
+    - Construí una interfaz web responsiva y de alto rendimiento utilizando Java 25 y Vaadin 25, aprovechando las funcionalidades más recientes de LTS para una arquitectura tecnológica preparada para el futuro
+
+    - Implementé una arquitectura de almacenamiento nativa de la nube utilizando el SDK de Amazon S3 y DigitalOcean Spaces para la gestión segura y escalable de documentos y facturas
+
+    - Desarrollé una estrategia personalizada de copias de seguridad automatizadas para garantizar la integridad de los datos y la recuperación ante desastres de la base de datos PostgreSQL en producción
+
+  ],
+)
 
 #regular-entry(
   [
@@ -126,22 +153,20 @@ Ingeniero en Ciencias de la Computación con un año de experiencia práctica en
 
   ],
   main-column-second-row: [
-    - Integración de escáneres de almacén portátiles con la aplicación web ERP, automatizando la entrada de datos para el etiquetado y seguimiento de inventario
+    - Integré escáneres portátiles de almacén con la aplicación web del ERP, automatizando la entrada de datos para el etiquetado y el seguimiento de inventario
 
-    - Diseño y despliegue de módulos personalizados escalables para facilitar la incorporación de nuevos clientes corporativos al ecosistema heredado (legacy)
+    - Diseñé e implementé módulos personalizados escalables para facilitar la incorporación de nuevos clientes empresariales al ecosistema heredado
 
-    - Propuesta de iniciativas para mejorar la calidad del código existente mediante la coordinación de reuniones técnicas con el equipo de desarrollo para establecer y promover mejores prácticas de programación
+    - Desarrollé utilidades internas críticas utilizando Playwright para resolver problemas de alta prioridad en el procesamiento de facturación electrónica (e-CF)
 
-    - Desarrollo de utilidades internas críticas para resolver problemas de alta prioridad en el procesamiento de facturación electrónica (e-CF)
-
-    - Auditoría de las APIs REST existentes para identificar y corregir vulnerabilidades de seguridad, mejorando significativamente el rendimiento del sistema y la seguridad de los datos
+    - Audité APIs REST existentes para identificar y corregir vulnerabilidades de seguridad, mejorando significativamente el rendimiento del sistema y la seguridad de los datos
 
   ],
 )
 
 #regular-entry(
   [
-    #strong[Pasante de Desarrollo Web], Decasystems -- Santiago, República Dominicana
+    #strong[Desarrollador Web Pasante], Decasystems -- Santiago, República Dominicana
 
   ],
   [
@@ -149,59 +174,32 @@ Ingeniero en Ciencias de la Computación con un año de experiencia práctica en
 
   ],
   main-column-second-row: [
-    - Optimización del rendimiento de la base de datos mediante el análisis de planes de ejecución y la reescritura de consultas PostgreSQL ineficientes utilizadas en JasperReports
+    - Optimicé el rendimiento de la base de datos mediante el análisis de planes de ejecución y la reescritura de consultas PostgreSQL ineficientes utilizadas en JasperReports
 
-    - Ingeniería de una funcionalidad integral (end-to-end) para la Gestión de Lotes de Productos, integrándola sin problemas en la arquitectura ERP existente
+    - Diseñé e implementé de principio a fin una funcionalidad de Gestión de Lotes de Productos, integrándola de forma fluida en la arquitectura existente del ERP
 
-    - Realización de depuración (debugging) rápida y despliegue de parches para código heredado, resolviendo problemas de alta prioridad en un ciclo de desarrollo ágil
-
-  ],
-)
-
-== Proyectos Profesionales
-
-#regular-entry(
-  [
-    #strong[ADSCON] -- #strong[Santiago, República Dominicana]
-
-  ],
-  [
-    Dic 2025 – Ene 2026
-
-  ],
-  main-column-second-row: [
-    #summary[Proyecto freelance para una empresa de gestión residencial]
-
-    - Transformación de requisitos de negocio complejos en un sistema funcional, optimizando las tareas administrativas para la gestión residencial
-
-    - Liderazgo del desarrollo de producto de principio a fin, desde el levantamiento inicial de requisitos y arquitectura del sistema hasta el despliegue final y mantenimiento
-
-    - Construcción de una interfaz web responsiva de alto rendimiento utilizando Java 25 y Vaadin 25, aprovechando las últimas características LTS para un stack tecnológico preparado para el futuro
-
-    - Implementación de una arquitectura de almacenamiento nativa en la nube utilizando el SDK de Amazon S3 y Digital Ocean Spaces para la gestión segura y escalable de documentos y facturas
-
-    - Desarrollo de una estrategia personalizada de copias de seguridad automatizadas para garantizar la integridad de los datos y la recuperación ante desastres de la base de datos de producción PostgreSQL
+    - Realicé depuración rápida y despliegue de parches para código heredado, resolviendo problemas de alta prioridad en un ciclo de desarrollo dinámico
 
   ],
 )
 
 == Habilidades
 
-#strong[Lenguajes:] Java, Go, JavaScript (ES6+), Python, Bash
+#strong[Lenguajes:] Java, Go, JavaScript\/Typescript, Python, Bash
 
-#strong[Backend:] Spring Boot, Quarkus, Keycloak (Auth), REST APIs
+#strong[Backend:] Spring Boot, Quarkus, Keycloak, OAuth, REST APIs, GraphQL
 
-#strong[Frontend:] Vue 3 (Pinia, Vuetify\/PrimeVue), Vaadin Flow, TailwindCSS, HTML5\/CSS3
+#strong[Frontend:] Vue 3 (Pinia, Vuetify\/PrimeVue), Vaadin, TailwindCSS, HTML5\/CSS3
 
-#strong[Bases de Datos y Persistencia:] PostgreSQL, Flyway (Migration), Hibernate ORM, JPA, H2
+#strong[Bases de Datos:] PostgreSQL, SQL Server, H2, Flyway, Hibernate ORM, JPA
 
-#strong[Infraestructura y DevOps:] Docker, Docker Compose, AWS, DigitalOcean (Droplets, Spaces), GitHub Actions (CI\/CD)
+#strong[Infraestructura & DevOps:] Docker, Docker Compose, Kubernetes, Kafka, RabbitMQ, AWS, DigitalOcean, GitHub Actions (CI\/CD)
 
-#strong[Movil:] Android Development (Jetpack Compose, Room)
+#strong[Movil:] Kotlin, Android Development (Jetpack Compose), Flutter
 
-#strong[Testing:] JUnit, Rest Assured, Playwright
+#strong[Testing:] JUnit, Rest Assured, Playwright, Unit Testing, E2E Testing, JMeter, Stress Testing
 
-#strong[Herramientas:] Linux, Git, Maven, Gradle, Neovim, Intellij Idea, Postman, JIRA
+#strong[Herramientas:] Linux, Git, Maven, Gradle, Neovim, Intellij Idea, Postman, JIRA, AGILE, Github, Bitbucket, AI, Opencode
 
 == Certificaciones
 
@@ -211,10 +209,14 @@ Ingeniero en Ciencias de la Computación con un año de experiencia práctica en
 
 - Vue - The Complete Guide (incl. Router & Composition API) - Udemy
 
-- Android App Components - Intents, Activities, and Broadcast Receivers - Vanderbilt University
+- Software Architecture & Design of Modern Large Scale Systems - Udemy
 
 - Introduction to Software Testing - University of Minnesota
 
 - Boot.dev's Learn Shells and Terminals Course - Boot.dev
 
 - HTML, CSS, and Javascript for Web Developers - Johns Hopkins University
+
+== Referencias
+
+- Luis Mejia Peguero, Assigned Solutions Engineer en Focus Technology, +1 401-753-1222

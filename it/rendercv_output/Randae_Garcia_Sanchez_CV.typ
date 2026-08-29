@@ -1,12 +1,14 @@
 // Import the rendercv function and all the refactored components
-#import "@preview/rendercv:0.1.0": *
+#import "@preview/rendercv:0.3.0": *
 
 // Apply the rendercv template with custom configuration
 #show: rendercv.with(
   name: "Randae Garcia Sanchez",
+  title: "Randae Garcia Sanchez - CV",
   footer: context { [#emph[Randae Garcia Sanchez -- #str(here().page())\/#str(counter(page).final().first())]] },
-  top-note: [ #emph[Last updated in June 2026] ],
+  top-note: [ #emph[Last updated in Aug 2026] ],
   locale-catalog-language: "en",
+  text-direction: ltr,
   page-size: "us-letter",
   page-top-margin: 0.7in,
   page-bottom-margin: 0.7in,
@@ -67,6 +69,7 @@
   entries-space-between-columns: 0.1cm,
   entries-allow-page-break: false,
   entries-short-second-row: false,
+  entries-degree-width: 1cm,
   entries-summary-space-left: 0cm,
   entries-summary-space-above: 0.08cm,
   entries-highlights-bullet:  text(13pt, [•], baseline: -0.6pt) ,
@@ -77,8 +80,8 @@
   entries-highlights-space-between-bullet-and-text: 0.3em,
   date: datetime(
     year: 2026,
-    month: 6,
-    day: 24,
+    month: 8,
+    day: 27,
   ),
 )
 
@@ -98,7 +101,7 @@
 
 == About me
 
-Dedicated IT Professional with over two years of hands-on technical support and systems engineering experience. Proven track record troubleshooting hardware, software, and network connectivity issues in enterprise and logistics environments. Experienced in configuring handheld warehouse scanners, resolving incident tickets, and managing modern OS platforms (Windows, macOS, Linux). Adept at hardware lifecycle deployment, device mapping, and cross-functional user support. US Citizen.
+Dedicated IT Professional with 2 years of hands-on technical support and systems experience. Skilled in troubleshooting hardware, software, and network issues, managing modern operating systems (Windows, macOS, Linux), and resolving user support tickets. Backed by a Computer Science degree, bringing strong analytical, scripting, and debugging capabilities to technical environments. Reliable, detail-oriented, and ready to contribute to a growing team. US Citizen open to relocation within the US.
 
 == Education
 
@@ -121,7 +124,7 @@ Dedicated IT Professional with over two years of hands-on technical support and 
 
 #regular-entry(
   [
-    #strong[IT Support & Systems Engineer], Adscon -- Remote
+    #strong[Systems Engineer], Adscon -- Remote
 
   ],
   [
@@ -133,8 +136,6 @@ Dedicated IT Professional with over two years of hands-on technical support and 
 
     - Managed end-to-end incident mitigation and technical requirements to build a stable system, optimizing daily administrative and hardware asset tasks.
 
-    - Troubleshot hardware, peripherals, and secure network connectivity protocols to maximize operational uptime
-
     - Designed an automated production backup architecture and secure storage infrastructure to safeguard active enterprise environments
 
     - Documented tech-stack workflows and provided real-time tech support to optimize daily business operations
@@ -144,7 +145,7 @@ Dedicated IT Professional with over two years of hands-on technical support and 
 
 #regular-entry(
   [
-    #strong[Web Developer], Decasystems -- Santiago, Dominican Republic
+    #strong[Web Developer], Decasystems
 
   ],
   [
@@ -154,9 +155,9 @@ Dedicated IT Professional with over two years of hands-on technical support and 
   main-column-second-row: [
     #summary[Systems development and hardware endpoint integration]
 
-    - Directly configured, integrated, and troubleshot handheld warehouse RF scanners and mobile terminal hardware to automate inventory workflows
+    - Integrated handheld warehouse scanners with the ERP web application, automating data entry for labeling and inventory tracking
 
-    - Resolved high-priority customer tickets, addressing configuration faults, system errors, and peripheral hardware connectivity bugs
+    - Resolved high-priority customer tickets, addressing configuration faults, system errors, and feature implementation
 
     - Designed, developed and deployed scalable custom modules to facilitate the onboarding of new enterprise clients into the legacy ecosystem
 
@@ -167,7 +168,7 @@ Dedicated IT Professional with over two years of hands-on technical support and 
 
 #regular-entry(
   [
-    #strong[Web Developer Intern], Decasystems -- Santiago, Dominican Republic
+    #strong[Web Developer Intern], Decasystems
 
   ],
   [
@@ -177,7 +178,7 @@ Dedicated IT Professional with over two years of hands-on technical support and 
   main-column-second-row: [
     #summary[Software support and inventory system adjustments]
 
-    - Diagnosed and optimized database response delays, rewriting queries to expedite reporting tasks for warehouse managers
+    - Diagnosed and optimized database response delays, rewriting SQL queries to expedite reporting tasks for warehouse managers
 
     - Engineered an end-to-end Product Batch Management feature, integrating it seamlessly into the existing ERP architecture
 
@@ -190,15 +191,15 @@ Dedicated IT Professional with over two years of hands-on technical support and 
 
 #strong[Technical Support:] Incident Management, Device Lifecycle Management, Asset Inventory Tracking
 
-#strong[Hardware & Peripherals:] RF Scanners, Desktop\/Laptop components
+#strong[Hardware & Peripherals:] Desktop\/Laptop components
 
-#strong[Operating Systems:] Windows 10\/11, macOS, Linux (Shell\/Terminal environments)
+#strong[Operating Systems:] Windows 10\/11, Linux
 
 #strong[Productivity & Identity:] Microsoft 365 (Outlook, Teams, OneDrive)
 
 #strong[Networking:] TCP\/IP, Wi-Fi Troubleshooting, Routing & Switching basics
 
-#strong[Core Tools & Dev:] Git, Bash Scripting, Postman, JIRA, Docker, Java, Go, Python
+#strong[Core Tools & Dev:] Git, Bash Scripting, Postman, JIRA, Docker, Java, Go, Python, PostgreSQL, SQL
 
 == Certifications
 

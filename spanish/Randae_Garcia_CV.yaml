@@ -2,10 +2,10 @@
 cv:
   name: Randae Garcia Sanchez
   headline:
-  location: Santiago, Republica Dominicana
-  email: garciasanchezrd@gmail.com
+  location: Wilkes Barre, PA
+  email: randaegs@protonmail.com
   photo:
-  phone:
+  phone: +1 (570)-578-2550
   website: 
   social_networks:
     - network: LinkedIn
@@ -15,19 +15,31 @@ cv:
   custom_connections:
   sections:
     Acerca de mi:
-      - Ingeniero en Ciencias de la Computación con un año de experiencia práctica en desarrollo Java. Competente en la creación de aplicaciones web utilizando frameworks de Java, incluyendo Spring y Quarkus, así como JavaScript con Vue.js, siguiendo metodologías ágiles. Experiencia con sistemas de control de versiones Git y cómodo trabajando en entornos de terminal y Linux. Ciudadano estadounidense.
-    Educacion:
-      - institution: Pontificia Universidad Católica Madre y Maestra (PUCMM)
-        area: Ingeniería en Ciencias de la Computación
-        degree: Grado
+      - Ingeniero en Ciencias de la Computación con dos años de experiencia práctica en desarrollo con Java. Competente en la creación de aplicaciones web monolíticas y basadas en microservicios utilizando frameworks de Java como Spring, Quarkus y Vaadin, así como JavaScript con Vue, siguiendo metodologías ágiles. Experiencia con sistemas de control de versiones Git y facilidad para trabajar en terminal y entornos Linux.
+    educación:
+      - institution: Pontifica Universidad Catolica Madre y Maestra (PUCMM)
+        area: Ciencias de la Computación
+        degree: Ingenieria
         date:
         start_date: 2021-01
         end_date: 2025-09
         location: Santiago, República Dominicana
         summary:
         highlights:
-          - 'Tesis: Smart Stock Analyzer: Optimización de la gestión de inventario en centros de acopio en la República Dominicana mediante visión artificial'
-    Experiencia :
+          - 'Tesis: Smart Stock Analyzer: Optimización de la gestión de inventarios en centros de acopio de la República Dominicana mediante visión por computadora'
+    experiencia:
+      - company: Adscon
+        position: Ingeniero de Software
+        date:
+        start_date: 2025-12
+        end_date: 
+        location: Santiago, República Dominicana 
+        summary: Proyecto freelance para una empresa de administración residencial
+        highlights:
+          - Transformé requisitos empresariales complejos en un sistema funcional, optimizando las tareas administrativas de la gestión residencial
+          - Construí una interfaz web responsiva y de alto rendimiento utilizando Java 25 y Vaadin 25, aprovechando las funcionalidades más recientes de LTS para una arquitectura tecnológica preparada para el futuro
+          - Implementé una arquitectura de almacenamiento nativa de la nube utilizando el SDK de Amazon S3 y DigitalOcean Spaces para la gestión segura y escalable de documentos y facturas
+          - Desarrollé una estrategia personalizada de copias de seguridad automatizadas para garantizar la integridad de los datos y la recuperación ante desastres de la base de datos PostgreSQL en producción
       - company: Decasystems
         position: Desarrollador Web
         date:
@@ -36,60 +48,48 @@ cv:
         location: Santiago, República Dominicana 
         summary:
         highlights:
-          - Integración de escáneres de almacén portátiles con la aplicación web ERP, automatizando la entrada de datos para el etiquetado y seguimiento de inventario
-          - Diseño y despliegue de módulos personalizados escalables para facilitar la incorporación de nuevos clientes corporativos al ecosistema heredado (legacy)
-          - Propuesta de iniciativas para mejorar la calidad del código existente mediante la coordinación de reuniones técnicas con el equipo de desarrollo para establecer y promover mejores prácticas de programación
-          - Desarrollo de utilidades internas críticas para resolver problemas de alta prioridad en el procesamiento de facturación electrónica (e-CF)
-          - Auditoría de las APIs REST existentes para identificar y corregir vulnerabilidades de seguridad, mejorando significativamente el rendimiento del sistema y la seguridad de los datos
+          - Integré escáneres portátiles de almacén con la aplicación web del ERP, automatizando la entrada de datos para el etiquetado y el seguimiento de inventario
+          - Diseñé e implementé módulos personalizados escalables para facilitar la incorporación de nuevos clientes empresariales al ecosistema heredado
+          - Desarrollé utilidades internas críticas utilizando Playwright para resolver problemas de alta prioridad en el procesamiento de facturación electrónica (e-CF)
+          - Audité APIs REST existentes para identificar y corregir vulnerabilidades de seguridad, mejorando significativamente el rendimiento del sistema y la seguridad de los datos
       - company: Decasystems
-        position: Pasante de Desarrollo Web
+        position: Desarrollador Web Pasante
         date:
         start_date: 2025-02
         end_date: 2025-04
         location: Santiago, República Dominicana 
         summary:
         highlights:
-          - Optimización del rendimiento de la base de datos mediante el análisis de planes de ejecución y la reescritura de consultas PostgreSQL ineficientes utilizadas en JasperReports
-          - Ingeniería de una funcionalidad integral (end-to-end) para la Gestión de Lotes de Productos, integrándola sin problemas en la arquitectura ERP existente
-          - Realización de depuración (debugging) rápida y despliegue de parches para código heredado, resolviendo problemas de alta prioridad en un ciclo de desarrollo ágil
-    proyectos_profesionales:
-      - name: ADSCON
-        date:
-        start_date: 2025-12
-        end_date: 2026-01
-        location: Santiago, República Dominicana
-        summary: Proyecto freelance para una empresa de gestión residencial
-        highlights:
-          - Transformación de requisitos de negocio complejos en un sistema funcional, optimizando las tareas administrativas para la gestión residencial
-          - Liderazgo del desarrollo de producto de principio a fin, desde el levantamiento inicial de requisitos y arquitectura del sistema hasta el despliegue final y mantenimiento
-          - Construcción de una interfaz web responsiva de alto rendimiento utilizando Java 25 y Vaadin 25, aprovechando las últimas características LTS para un stack tecnológico preparado para el futuro
-          - Implementación de una arquitectura de almacenamiento nativa en la nube utilizando el SDK de Amazon S3 y Digital Ocean Spaces para la gestión segura y escalable de documentos y facturas
-          - Desarrollo de una estrategia personalizada de copias de seguridad automatizadas para garantizar la integridad de los datos y la recuperación ante desastres de la base de datos de producción PostgreSQL
+          - Optimicé el rendimiento de la base de datos mediante el análisis de planes de ejecución y la reescritura de consultas PostgreSQL ineficientes utilizadas en JasperReports
+          - Diseñé e implementé de principio a fin una funcionalidad de Gestión de Lotes de Productos, integrándola de forma fluida en la arquitectura existente del ERP
+          - Realicé depuración rápida y despliegue de parches para código heredado, resolviendo problemas de alta prioridad en un ciclo de desarrollo dinámico
     habilidades:
       - label: Lenguajes
-        details: Java, Go, JavaScript (ES6+), Python, Bash
+        details: Java, Go, JavaScript/Typescript, Python, Bash
       - label: Backend
-        details: Spring Boot, Quarkus, Keycloak (Auth), REST APIs
+        details: Spring Boot, Quarkus, Keycloak, OAuth, REST APIs, GraphQL
       - label: Frontend
-        details: Vue 3 (Pinia, Vuetify/PrimeVue), Vaadin Flow, TailwindCSS, HTML5/CSS3
-      - label: Bases de Datos y Persistencia
-        details: PostgreSQL, Flyway (Migration), Hibernate ORM, JPA, H2
-      - label: Infraestructura y DevOps
-        details: Docker, Docker Compose, AWS, DigitalOcean (Droplets, Spaces), GitHub Actions (CI/CD)
+        details: Vue 3 (Pinia, Vuetify/PrimeVue), Vaadin, TailwindCSS, HTML5/CSS3
+      - label: Bases de Datos
+        details: PostgreSQL, SQL Server, H2, Flyway, Hibernate ORM, JPA
+      - label: Infraestructura & DevOps
+        details: Docker, Docker Compose, Kubernetes, Kafka, RabbitMQ, AWS, DigitalOcean, GitHub Actions (CI/CD)
       - label: Movil
-        details: Android Development (Jetpack Compose, Room)
+        details: Kotlin, Android Development (Jetpack Compose), Flutter
       - label: Testing
-        details: JUnit, Rest Assured, Playwright
+        details: JUnit, Rest Assured, Playwright, Unit Testing, E2E Testing, JMeter, Stress Testing
       - label: Herramientas
-        details: Linux, Git, Maven, Gradle, Neovim, Intellij Idea, Postman, JIRA
+        details: Linux, Git, Maven, Gradle, Neovim, Intellij Idea, Postman, JIRA, AGILE, Github, Bitbucket, AI, Opencode
     certificaciones:
       - bullet: Spring Boot 3, Spring 6 & Hibernate for Beginners - Udemy
       - bullet: Database Change Management for Java Developers - JConf Dominicana
       - bullet: Vue - The Complete Guide (incl. Router & Composition API) - Udemy
-      - bullet: Android App Components - Intents, Activities, and Broadcast Receivers - Vanderbilt University
+      - bullet: Software Architecture & Design of Modern Large Scale Systems - Udemy
       - bullet: Introduction to Software Testing - University of Minnesota
       - bullet: Boot.dev's Learn Shells and Terminals Course - Boot.dev
       - bullet: HTML, CSS, and Javascript for Web Developers - Johns Hopkins University
+    referencias:
+      - bullet: Luis Mejia Peguero, Assigned Solutions Engineer en Focus Technology, +1 401-753-1222
 design:
   theme: engineeringresumes
   # page:
@@ -249,7 +249,7 @@ locale:
   #   - November
   #   - December
 settings:
-  current_date: '2026-01-10'
+  current_date: '2026-08-07'
   render_command:
     design:
     locale:
