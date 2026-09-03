@@ -6,7 +6,7 @@
   name: "Randae Garcia Sanchez",
   title: "Randae Garcia Sanchez - CV",
   footer: context { [#emph[Randae Garcia Sanchez -- #str(here().page())\/#str(counter(page).final().first())]] },
-  top-note: [ #emph[Last updated in Aug 2026] ],
+  top-note: [ #emph[Last updated in Sept 2026] ],
   locale-catalog-language: "en",
   text-direction: ltr,
   page-size: "us-letter",
@@ -80,8 +80,8 @@
   entries-highlights-space-between-bullet-and-text: 0.3em,
   date: datetime(
     year: 2026,
-    month: 8,
-    day: 27,
+    month: 9,
+    day: 2,
   ),
 )
 
@@ -121,6 +121,38 @@ Dedicated IT Professional with 2 years of hands-on technical support and systems
 )
 
 == Experience
+
+#regular-entry(
+  [
+    #strong[Package Handler], Fedex -- Pittston, PA
+
+  ],
+  [
+    July 2026 – present
+
+  ],
+  main-column-second-row: [
+    - Loaded trucks with packages
+
+  ],
+)
+
+#regular-entry(
+  [
+    #strong[Paint Sales Associate], Lowe's -- Wilkes-Barre, PA
+
+  ],
+  [
+    Mar 2026 – July 2026
+
+  ],
+  main-column-second-row: [
+    - Engaged with customers to fulfill their needs
+
+    - Managed inventory using provided scanners and inventory systems
+
+  ],
+)
 
 #regular-entry(
   [

@@ -19,6 +19,24 @@ Jan 2021 – Sept 2025
 
 
 # Experience
+## **Package Handler**, Fedex -- Pittston, PA
+
+July 2026 – present
+
+- Loaded trucks with packages
+
+
+
+## **Paint Sales Associate**, Lowe's -- Wilkes-Barre, PA
+
+Mar 2026 – July 2026
+
+- Engaged with customers to fulfill their needs
+
+- Managed inventory using provided scanners and inventory systems
+
+
+
 ## **Systems Engineer**, Adscon -- Remote
 
 Dec 2025 – present
